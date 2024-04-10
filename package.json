@@ -1,0 +1,31 @@
+{
+  "name": "library-app-express",
+  "version": "1.0.0",
+  "description": "Library application made on express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asrorbekeraliev/library-app-express.git"
+  },
+  "keywords": [
+    "library",
+    "express.js"
+  ],
+  "author": "Asrorbek Eraliev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asrorbekeraliev/library-app-express/issues"
+  },
+  "homepage": "https://github.com/asrorbekeraliev/library-app-express#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
